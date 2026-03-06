@@ -1,0 +1,7 @@
+# **Fifa World Cup 2022: Complete Dataset** ⚽ <img width="275" height="268" alt="image" src="https://github.com/user-attachments/assets/3df5b6e8-362c-42a8-8932-fd93b384a3bb" />
+
+## Did you all miss the World Cup? 
+### About the Dataset ###
+#### ***This dataset contains all the matches, updated daily, of the Qatar Fifa World Cup 2022.***
+### Inspiration ###
+#### ***As the 2026 World Cup takes place this year, this dataset provides an excellent opportunity for match analysis. With a wide array of features available, it supports not only diverse exploratory data analysis techniques but also a variety of plots and visualization methods. Python libraries, in particular, make these tasks both efficient and versatile.*** ####
