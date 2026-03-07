@@ -9,3 +9,16 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset)
 > ##### Programming Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+## Facilitadores do Projeto
+
+|   ID   | Nome              | Atividade                                                          |
+| ------ | ------------------| ------------------------------------------------------------------ |
+| ASD    | Reinaldo Oliveira |                                                                    |                 
+| ASD    | Douglas Lucena    |                                                                    |
+| ASD    | ASD               |                                                                    |
+
+
+## Cronograma do Projeto
