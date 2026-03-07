@@ -22,3 +22,8 @@
 
 
 ## Cronograma do Projeto
+
+<p align="center">
+  <img src="img/Cronograma.png" /p>
+</p>
+
