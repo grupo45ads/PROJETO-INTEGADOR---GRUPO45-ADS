@@ -12,7 +12,7 @@
 
 
 
-## Facilitadores do Projeto
+## Facilitadores do Projeto - Grupo 45
 
 |   ID   | Nome              | Atividade                                                          |
 | ------ | ------------------| ------------------------------------------------------------------ |
