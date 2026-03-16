@@ -25,7 +25,7 @@
 | ---------- | ------------------| ------------------------------------------------------------------ |
 | ASD        | Reinaldo Oliveira |                                                                    |                 
 | 1142184360 | Douglas Lucena    |                                                                    |
-| ASD        | Luan Dias     |                                                                    |
+| ASD        | Luan Dias         |                                                                        |
 | ASD        | Arthur Medeiros   |                                                                    |
 
 
