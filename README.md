@@ -15,7 +15,7 @@
 ## O Projeto
 
 <p align="center">
-  <img src="Img/Tema.png" /p> 
+  <img src="Img/tema-atualizado.png" /p> 
 </p>
 
 
